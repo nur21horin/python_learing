@@ -37,3 +37,22 @@ print(char+'!' for char in x)
 print(x.upper())
 
 print(x.lower())
+
+print(x.title())
+
+print(x.split())
+
+print(x.index('plan'))
+
+print(x.replace('Pluto','Earth'))
+
+print(x.startswith('pluto'))
+print(x.endswith('planet'))
+
+datestr='2024-06-01'
+year=datestr[0:4]
+print(year)
+month,year,day=datestr.split('-')
+print(year,month,day)
+
+print('/'.join([year,month,day]))
