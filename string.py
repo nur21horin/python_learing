@@ -14,3 +14,14 @@ print(x==name )
 print("my name is nur's")
 print('Pluto\'s a planet!')
 print("look a mountain:/\\")
+
+print("""Dear Alice,
+I hope you're having a wonderful day!
+Best regards,
+Bob""")
+
+print("hello ",end="")
+print("world",end=" ")
+print("NUR")
+print("this",end=" ")
+print("is")
