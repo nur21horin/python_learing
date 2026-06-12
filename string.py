@@ -31,3 +31,9 @@ if len(x)==y:
     print("the length of x is",y)
 else:
     print("the length of y is not",x)
+
+print(char+'!' for char in x)
+
+print(x.upper())
+
+print(x.lower())
