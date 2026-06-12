@@ -25,3 +25,9 @@ print("world",end=" ")
 print("NUR")
 print("this",end=" ")
 print("is")
+
+y=len(x)
+if len(x)==y:
+    print("the length of x is",y)
+else:
+    print("the length of y is not",x)
