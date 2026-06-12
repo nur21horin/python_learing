@@ -39,5 +39,5 @@
         squares = []
         for n in range(10):
             squares.append(n**2)
-        squaresy
+        squaresyh
 
